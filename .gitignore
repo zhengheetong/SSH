@@ -1,5 +1,6 @@
 brand_app/*
 brand_db/*
+CTG/*
 server.json
 ssh_menu
 temp.py
